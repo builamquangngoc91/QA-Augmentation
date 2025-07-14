@@ -6,7 +6,7 @@ import re
 
 # --- Step 1: Configure the Generative Model ---
 # Sử dụng API key của bạn.
-api_key = os.environ.get("GOOGLE_API_KEY", "AIzaSyAaI_G_UBCxSzn7hxhS8XS2zoCstwPpO0I")
+api_key = os.environ.get("GOOGLE_API_KEY", "")
 
 if not api_key:
     print("Error: GOOGLE_API_KEY not found.")

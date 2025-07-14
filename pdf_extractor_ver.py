@@ -5,7 +5,7 @@ import argparse
 
 # --- Step 1: Setup the Parser ---
 print("Setting up the LlamaParse client...")
-os.environ["LLAMA_CLOUD_API_KEY"] = "llx-1TyDel5J64RdZMOSSc3F4ciQCI1s4BbIHxAIHnMjK3wB0ERz"
+os.environ["LLAMA_CLOUD_API_KEY"] = ""
 
 # Instantiate the parser
 parser = LlamaParse(

@@ -4,7 +4,7 @@ import json
 import re
 
 # --- Step 1: Configure the Generative Model ---
-api_key = "AIzaSyAaI_G_UBCxSzn7hxhS8XS2zoCstwPpO0I"
+api_key = ""
 
 if not api_key:
     print("Error: API_KEY not found.")
