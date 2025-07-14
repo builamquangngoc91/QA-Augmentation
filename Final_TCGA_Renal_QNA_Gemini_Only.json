@@ -1,0 +1,1477 @@
+[
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the most common type of Renal Cell Carcinoma (RCC)?",
+    "answer": "Clear cell RCC is the most common type of RCC."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What percentage of all renal cancers does clear cell RCC account for?",
+    "answer": "Clear cell RCC accounts for 65%–70% of all renal cancers."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Where are most clear cell RCCs grossly centered within the kidney?",
+    "answer": "Most clear cell RCCs are well delineated and centered on the cortex."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the typical color of a clear cell RCC on its cut surface?",
+    "answer": "In a typical case, the cut surface shows a solid, golden-yellow tumor."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What four common macroscopic features contribute to the \"variegated appearance\" of clear cell RCC?",
+    "answer": "The common occurrences of hemorrhage, necrosis, calcification, and cystic change result in the variegated appearance."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What structure sharply separates a clear cell RCC from the surrounding tissues?",
+    "answer": "A fibrous pseudocapsule."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "When cystic degeneration is very advanced in a clear cell RCC, what may be the only remaining evidence of the lesion?",
+    "answer": "A mural nodule may remain as the only evidence of the real nature of the lesion."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "In approximately what percentage of clear cell RCC cases are multiple tumor nodules seen scattered throughout the organ?",
+    "answer": "Approximately 5% of the cases."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "How might the presence of multiple tumor nodules in clear cell RCC be explained?",
+    "answer": "It may represent retrograde venous extension from the dominant tumor."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the typical appearance of the tumor cells in clear cell RCC at the microscopic level?",
+    "answer": "The tumor cells are relatively large, with cytoplasm ranging from optically clear to deeply granular."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What two substances accumulate in the cytoplasm to give clear cell RCC its characteristic \"clear\" appearance?",
+    "answer": "The clear cell appearance results from the accumulation of glycogen and lipids."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the main basis for the microscopic grading of clear cell RCC?",
+    "answer": "The size, chromatin pattern, and nucleolar appearance of the nuclei constitute the main basis for microscopic grading."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "According to the WHO/ISUP grading system in Table 24.3, what is the criterion for Grade 1 nuclear grade in clear cell RCC?",
+    "answer": "Nucleoli are absent or inconspicuous and basophilic at ×400 magnification."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What are the criteria for a Grade 2 nuclear grade in clear cell RCC as per Table 24.3?",
+    "answer": "Nucleoli are conspicuous and eosinophilic at ×400 magnification and visible but not prominent at ×100 magnification."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "According to Table 24.3, how are nucleoli described for a Grade 3 clear cell RCC?",
+    "answer": "Nucleoli are conspicuous and eosinophilic at ×100 magnification."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What two features define a Grade 4 clear cell RCC according to the WHO/ISUP grading system?",
+    "answer": "Grade 4 is defined by extreme nuclear pleomorphism and/or rhabdoid differentiation and or sarcomatoid differentiation."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the predominant microscopic pattern of growth in a usual case of clear cell RCC?",
+    "answer": "The pattern of growth is predominantly solid, with formation of alveolar and acinar patterns of tumor cells."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the characteristic feature of the stroma in clear cell RCC, which is also an important diagnostic criterion?",
+    "answer": "The stroma is characteristically endowed with a prominent network of small, thin-walled blood vessels."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "The prominent vascular pattern of clear cell RCC is an especially important diagnostic criterion for which variant of the tumor?",
+    "answer": "It is an important diagnostic criterion for cases with granular eosinophilic cytoplasm."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Besides the common solid/alveolar/acinar patterns, what are two other microscopic patterns that clear cell RCC can exhibit?",
+    "answer": "Other patterns include tubular formation and microscopic and/or macroscopic cysts."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What histologic pattern may be present in a clear cell RCC with extensive regression?",
+    "answer": "Tumors with extensive regression show large areas of edematous or collagenized stroma that contain a well-formed arborizing vasculature."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "High-grade progression of a clear cell RCC may lead to what two histologic patterns?",
+    "answer": "High-grade progression may lead to sarcomatoid and/or rhabdoid histologic patterns."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "How is rhabdoid differentiation in a clear cell RCC characterized histologically?",
+    "answer": "It is characterized by abundant homogeneous eosinophilic cytoplasm and an eccentric nucleus."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Immunohistochemically, what is the \"rule\" regarding the coexpression of keratins and vimentin in clear cell RCC?",
+    "answer": "Coexpression of keratins and vimentin is the rule."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What two general epithelial markers does clear cell RCC show reactivity for?",
+    "answer": "Clear cell RCC shows reactivity for epithelial markers such as keratin and EMA."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Name three antigens, besides keratins and vimentin, that are typically detected in clear cell RCC.",
+    "answer": "Other antigens detected are CD10, carbonic anhydrase IX, and PAX-8."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the typical expression pattern of cytokeratin 7 (CK7) in clear cell RCC?",
+    "answer": "Cytokeratin 7 expression is typically rare in clear cell RCC and limited to a focal or patchy pattern of reactivity."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the most distinctive genetic abnormality found in most cases of clear cell RCC?",
+    "answer": "The most distinctive abnormality is alteration of the VHL tumor suppressor."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Where on chromosome 3 does the terminal deletion associated with VHL alteration typically begin?",
+    "answer": "The terminal deletion of the short arm of chromosome 3 begins at 3p13."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Besides deletion, what are two other mechanisms of VHL alteration in clear cell RCC?",
+    "answer": "Silencing through promoter methylation and somatic mutation."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "On which specific locus is the VHL gene located?",
+    "answer": "The VHL gene is on 3p25-26."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "In clear cell RCC, mutations in which gene have been associated with high-grade tumors and poor outcome?",
+    "answer": "Mutations in BAP1 have been associated with high-grade tumors and poor outcome."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the function of the VHL gene product?",
+    "answer": "The VHL gene product is required for degradation of HIF-1α (hypoxia inducible factor α)."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "The loss of VHL protein in clear cell RCC leads to the accumulation of what factor?",
+    "answer": "HIF-1α (hypoxia inducible factor α)."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "The accumulation of HIF-1α in clear cell RCC leads to the increased production of what growth factor that is a target for bevacizumab therapy?",
+    "answer": "VEGF (vascular endothelial growth factor)."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Name two other products of hypoxia-inducible genes that are overproduced in clear cell RCC, besides VEGF.",
+    "answer": "Other products include platelet-derived growth factor-B (PDGF-B), TGF-α, GLUT-1, metalloproteinases, and erythropoietin."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "In what percentage of patients does the classic diagnostic triad of RCC (hematuria, flank pain, and abdominal mass) occur?",
+    "answer": "The combination of these three features occurs in only 9% of the patients."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What renal tumor subtype is associated with von Hippel-Lindau (VHL) disease?",
+    "answer": "RCCs of the clear cell subtype are associated with von Hippel-Lindau (VHL) disease."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What other lesions may be found in the background kidney parenchyma of patients with VHL disease?",
+    "answer": "The background kidney parenchyma may contain multiple microscopic clear cell “tumorlets.”"
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the primary treatment for RCC?",
+    "answer": "The primary treatment of RCC is surgical excision."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the principal pathway of invasion for RCC to spread outside the kidney?",
+    "answer": "The renal sinus (the adipose tissue compartment located within the confines of the kidney)."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the most common site of distant metastases for RCC?",
+    "answer": "The most common sites of distant metastases are the lung and skeleton."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the term for when a tumor is found to invade the perinephric fat?",
+    "answer": "This is considered pT3 disease based on staging.\n4* Q: What is the most important single unfavorable prognostic parameter for RCC?\n    A: The presence of distant metastasis at the time of operation.\n4* Q: In the differential diagnosis with adrenal cortical carcinoma, what is a key negative marker for clear cell RCC?\n    A: Clear cell RCC is negative for inhibin, MelanA, and SF-1.\n4* Q: In distinguishing clear cell RCC from clear cell carcinoma of the ovary, what two keratins is ccRCC usually negative for?\n    A: Keratin 34βE12 and CK7."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "In distinguishing clear cell RCC from clear cell carcinoma of the thyroid, what two markers is ccRCC negative for?",
+    "answer": "RCC is negative for thyroglobulin and TTF-1."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "In distinguishing clear cell RCC from mesothelioma, what three markers is ccRCC negative for?",
+    "answer": "RCC is negative for calretinin, mesothelin, and CK 5/6."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Which immunohistochemical marker is generally considered the most useful renal epithelial marker?",
+    "answer": "PAX-8."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is a potential pitfall of using a polyclonal PAX-8 antibody in differential diagnosis?",
+    "answer": "The possibility of cross-reactivity with other PAX epitopes, such as cross-reactivity with PAX5 in B-cell lymphoma."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the most common subtype of RCC in children?",
+    "answer": "MiT family translocation RCCs represent the most common RCC subtype in children."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Do clear cell-papillary RCCs have the genetic changes characteristic of clear cell RCC?",
+    "answer": "No, they do not have the changes characteristic of either clear cell RCC or papillary RCC."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Why is the differential diagnostic distinction between clear cell-papillary RCC and clear cell RCC considered critical?",
+    "answer": "Because when diagnosed by strict criteria, no recurrence or metastasis has been reported in clear cell-papillary RCC."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What other renal tumor has genetic alterations (3p alterations) similar to clear cell RCC?",
+    "answer": "Multilocular cystic renal neoplasm of low malignant potential."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Do tumors with mixed features of clear cell RCC and clear cell-papillary RCC behave more like clear cell RCC or clear cell-papillary RCC?",
+    "answer": "Studies have shown that tumors with such mixed features have genetic features and a clinical outcome supporting the clear cell subtype."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "How does the prognosis of Type 1 papillary RCC compare to that of clear cell RCC?",
+    "answer": "Type 1 papillary RCC has a better prognosis than clear cell RCC."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Do clear cell RCCs have loss of chromosome 3p, a feature absent in Type 1 papillary RCC?",
+    "answer": "Yes, clear cell RCCs have loss of 3p, which is not seen in Type 1 papillary RCC."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is a potential mimic of clear cell RCC, given its frequent clear or granular eosinophilic cytoplasm?",
+    "answer": "MiT family translocation renal cell carcinomas."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the gross appearance of a multilocular cystic renal neoplasm, a differential for cystic ccRCC?",
+    "answer": "They are rare macrocystic renal tumors composed of thin septa without any macroscopic tumor nodules or expansile growth."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the key diagnostic feature to distinguish a multilocular cystic renal neoplasm from a cystic clear cell RCC?",
+    "answer": "The key diagnostic feature is the presence of small clusters of clear neoplastic cells in the thin walls of the septa, without any solid nodules of tumor cells."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the typical clinical course for a multilocular cystic renal neoplasm of low malignant potential when diagnosed with strict criteria?",
+    "answer": "It follows a benign clinical course."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the typical gross appearance of chromophobe RCC?",
+    "answer": "It is grossly well circumscribed, solitary, with a homogeneous gray to brown cut surface, typically devoid of hemorrhage or necrosis."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the main differential diagnosis for the eosinophilic variant of chromophobe RCC?",
+    "answer": "The main differential diagnosis is renal oncocytoma."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the typical behavior of \"RCC with (angio)leiomyomatous stroma\"?",
+    "answer": "These tumors seem to have an indolent clinical course (with no reported metastases) when carefully separated from clear cell RCC."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "How does the CK7 reactivity in \"RCC with (angio)leiomyomatous stroma\" differ from clear cell RCC?",
+    "answer": "Unlike clear cell RCC, these tumors have strong and diffuse reactivity for CK7."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the status of chromosome 3p in \"RCC with (angio)leiomyomatous stroma,\" a key difference from clear cell RCC?",
+    "answer": "Importantly, they do not show 3p abnormalities."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "When encountering a clear cell tumor in an extrarenal site, what is the most useful positive immunohistochemical marker to suggest a renal primary?",
+    "answer": "The coexpression of keratin and PAX-8."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the average age of diagnosis for adult RCC?",
+    "answer": "The average age at diagnosis is 55-60 years."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the incidence of bilaterality in adult RCC?",
+    "answer": "The incidence of bilaterality is 1%."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What are two risk factors said to increase the risk for development of RCC?",
+    "answer": "Cigarette smoking and high blood pressure."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Can clear cell RCC occur in children and young adults?",
+    "answer": "Yes, many of the RCCs occurring in children have an appearance and behavior equivalent to those developing in adults, although a high percentage belong to the MiT family translocation types."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the classic renal tumor associated with tuberous sclerosis?",
+    "answer": "Angiomyolipoma (AML)."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the general prognosis for chromophobe RCC compared to clear cell RCC?",
+    "answer": "As a whole, the prognosis of chromophobe RCC is much more favorable than that of clear cell RCC."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What type of cysts are seen in the background of clear cell RCCs in patients with von Hippel-Lindau disease?",
+    "answer": "The tumors are frequently multifocal/bilateral and are associated with atypical cysts that begin as foci of papillary epithelial hyperplasia."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "The cysts, atypical cysts, and renal tumors of patients with VHL disease have a similar immunohistochemical profile to what type of RCC?",
+    "answer": "Clear cell RCC."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What targeted therapy agents are mentioned as being used for clear cell RCC?",
+    "answer": "Sunitinib, sorafenib, temsirolimus, and bevacizumab."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "On what pathway do drugs like temsirolimus act, a pathway that is affected in clear cell RCC?",
+    "answer": "The AKT-mTOR pathway."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What are the two main histologic types of papillary RCC?",
+    "answer": "Type 1, in which papillae are lined by a single layer of cells with scanty pale cytoplasm; and type 2, in which papillae are lined by a pseudostratified epithelium of cells with abundant eosinophilic cytoplasm."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Is Type 2 papillary RCC considered a single, uniform entity?",
+    "answer": "No, molecular studies have confirmed the type II category to be a very heterogeneous group of tumors."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the typical appearance of the tumor capsule in a Type 1 papillary RCC?",
+    "answer": "Microscopically, a thick fibrous capsule is typical."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What may be found in the stroma of a Type 1 papillary RCC?",
+    "answer": "Prominent stromal infiltration by neutrophils or foamy macrophages."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is a potential outcome of Type 1 papillary RCC that can obscure the diagnosis?",
+    "answer": "Type 1 papillary RCC may undergo near complete infarction leaving only a thick fibrous capsule filled with necrosis and cholesterol granulomas."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Is clear cell-papillary RCC recognized as more or less common than previously thought?",
+    "answer": "It is now recognized as more common in a sporadic setting and represents the fourth most common RCC."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the typical nuclear grade of clear cell-papillary RCC?",
+    "answer": "The clear cells are cytologically low grade (International Society of Urological Pathology [ISUP] nuclear grade 1–2)."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What two features should be absent in a diagnosis of clear cell-papillary RCC?",
+    "answer": "Tumor cell necrosis and invasion of renal sinus vessels should be absent."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Is there a specific genetic finding for clear cell-papillary RCC?",
+    "answer": "No, there is no specific finding in clear cell-papillary RCC."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Are satellite tumors, which may represent intrarenal tumor spread, common in RCC?",
+    "answer": "They are seen in approximately 6% of the cases."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What percentage of patients with RCC have distant metastases at the time they seek medical attention?",
+    "answer": "Approximately one-third of patients."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Can metastases from RCC occur decades after removal of the primary tumor?",
+    "answer": "Yes, several cases have been documented in which these metastases develop years or decades after the removal of the primary tumor."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Is it reliable to separate benign adenoma from malignant clear cell RCC based on a size of 3 cm or less?",
+    "answer": "No, this is unreliable, as metastases are extremely rare but can certainly occur in tumors that measure 3 cm or less."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What does a careful gross inspection of the tumor/stromal interface where tumor abuts fat help to identify?",
+    "answer": "It is critical for identifying renal sinus invasion."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the significance of coagulative tumor necrosis in clear cell RCC?",
+    "answer": "It has been shown to be a strong predictor of outcome."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "According to the text, is it easy to identify a pT2 clear cell RCC after careful gross evaluation?",
+    "answer": "No, as Bonsib has emphasized, it is difficult to identify a pT2 clear cell RCC after very careful gross evaluation due to the high correlation of increasing tumor size with renal sinus invasion."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Does the text state that renal papillary adenomas are precursors to clear cell RCC?",
+    "answer": "No, it states they share cytogenetic findings with type 1 papillary RCC and likely represent early forms of that disease."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the common chromosomal abnormality in Type 1 papillary RCC, which helps differentiate it from clear cell RCC?",
+    "answer": "Trisomy of chromosomes 7 and 17, and loss of Y."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "How does the morphology of an epithelioid angiomyolipoma create a diagnostic challenge with ccRCC?",
+    "answer": "Highly pleomorphic AMLs rich in epithelioid cells closely resemble RCC."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the typical behavior of clear cell RCC?",
+    "answer": "Clear cell RCC has a high rate of metastatic disease, sometimes years after initial diagnosis."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the gross appearance of a clear cell-papillary RCC?",
+    "answer": "Grossly, clear cell-papillary RCC is circumscribed and often encapsulated. It may be solid, but is often cystic."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "In the differential diagnosis with clear cell-papillary RCC, what is the value of cytokeratin 7 immunohistochemistry?",
+    "answer": "Cytokeratin 7 often provides sufficient support to exclude clear cell subtype (which is negative or shows only focal staining). The absence of cytokeratin 7 staining should prompt careful reconsideration of a clear cell-papillary diagnosis."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "1. What is the prevalence of Papillary Renal Cell Carcinoma (pRCC) among all types of RCCs?",
+    "answer": "Papillary RCC is the second most common subtype, accounting for 15% to 18% of all RCCs."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "2. What are the two main subtypes of papillary RCC?",
+    "answer": "Papillary RCC can be subdivided into type 1 and type 2."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "3. What is the primary histological difference between type 1 and type 2 papillary RCC?",
+    "answer": "In type 1, the papillae are lined by a single layer of cells with scanty pale cytoplasm; in type 2, they are lined by a pseudostratified epithelium of cells with abundant eosinophilic cytoplasm."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "4. Which subtype of papillary RCC is considered a very heterogeneous group of tumors based on molecular studies?",
+    "answer": "Type 2 papillary RCC."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "5. Which subtype represents the prototypical form of papillary RCC?",
+    "answer": "Type 1 papillary RCC."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "6. How does type 1 pRCC typically compare to clear cell RCC in its likelihood of being localized to the kidney?",
+    "answer": "Type 1 pRCC is more likely than clear cell RCC to be localized to the kidney."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "7. Are type 1 pRCCs more likely to be solitary or multicentric/bilateral?",
+    "answer": "They are more likely to be multicentric or bilateral."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "8. What is the typical gross appearance of the cut surface of a type 1 pRCC?",
+    "answer": "The cut surface has a tan-brown appearance."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "9. What gross feature of type 1 pRCC can mimic extensive necrosis?",
+    "answer": "The intracystic papillary growth can mimic extensive necrosis."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "10. Are type 1 pRCC tumors typically encapsulated?",
+    "answer": "Yes, they are often encapsulated."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "11. What is a typical microscopic feature of the capsule surrounding a type 1 pRCC?",
+    "answer": "A thick fibrous capsule is typical."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "12. What microscopic structures often fill the intracystic space in a type 1 pRCC?",
+    "answer": "Complex papillary formations."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "13. What kind of inflammatory cells often accompany the prominent stromal infiltration in type 1 pRCC?",
+    "answer": "Neutrophils or foamy macrophages."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "14. Describe the single layer of epithelium that lines the papillae in type 1 pRCC.",
+    "answer": "It is a low cuboidal epithelium, with cells that often have little cytoplasm."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "15. What microscopic calcified structures may be numerous in type 1 pRCC?",
+    "answer": "Psammoma bodies."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "16. How is the nuclear grade described for type 1 pRCC?",
+    "answer": "The nuclear grade is variable."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "17. What is the name for the histologic pattern in type 1 pRCC where papillae are collapsed together?",
+    "answer": "Solid growth."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "18. What is the \"biphasic squamoid alveolar\" pattern?",
+    "answer": "It is a recognized histologic pattern of type 1 papillary RCC."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "19. What two degenerative features are not uncommon in foci of type 1 pRCC?",
+    "answer": "Intratumoral hemorrhage and necrosis."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "20. What type of cytoplasmic change can be seen in type 1 pRCC cells?",
+    "answer": "Intracytoplasmic hemosiderin deposition and cytoplasmic clearing are not uncommon."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "21. What is the morphologic appearance of a type 1 pRCC that has undergone near-complete infarction?",
+    "answer": "It appears as a thick fibrous capsule filled with necrosis and cholesterol granulomas."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "22. In a type 1 pRCC with near-complete infarction, where can residual viable tumor often be found?",
+    "answer": "Foci of residual viable tumor can often be found in numerous sections of the capsule."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "23. Which two immunohistochemical markers show strong expression in type 1 pRCC?",
+    "answer": "Keratin 7 and AMACR."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "24. What are the three characteristic chromosomal abnormalities found in type 1 papillary RCC?",
+    "answer": "Chromosome 7, 17, and Y abnormalities."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "25. Is the loss of chromosome 3p a characteristic genetic finding in type 1 pRCC?",
+    "answer": "No, in contrast with clear cell RCC, there is no loss of 3p in type 1 papillary RCC."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "26. What is the prognosis for type 1 pRCC compared to clear cell RCC?",
+    "answer": "Type 1 papillary RCC has a better prognosis than clear cell RCC."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "27. In rare instances, what is the genetic basis for hereditary type 1 papillary RCC?",
+    "answer": "It is associated with germline mutations of the c-MET oncogene."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "28. What syndrome is associated with germline mutations in the MET gene?",
+    "answer": "Hereditary papillary RCC syndrome."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "29. How does hereditary type 1 papillary RCC often present in terms of tumor number?",
+    "answer": "It often presents with hundreds of small tumors."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "30. What type of RCC does hereditary papillary RCC syndrome predispose an individual to?",
+    "answer": "It predisposes to type 1 papillary RCCs."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "31. How is type 2 pRCC described in the document?",
+    "answer": "It is described as a heterogeneous collection of high-grade RCCs with papillary architecture."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "32. Describe the cellular lining of the papillae in type 2 pRCC.",
+    "answer": "The papillae are lined by a pseudostratified epithelium."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "33. What is the characteristic appearance of the cytoplasm in type 2 pRCC cells?",
+    "answer": "The cells have abundant eosinophilic cytoplasm."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "34. What is the typical nuclear grade of cells in type 2 pRCC?",
+    "answer": "The cells are typically of higher nuclear grade."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "35. According to recent molecular studies, what two tumor types are frequently misclassified as \"type 2\" papillary RCC?",
+    "answer": "MiT family translocation RCCs and RCCs associated with hereditary leiomyomatosis."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "36. What type of genetic mutation is found in a subgroup of type 2 pRCC that is not associated with hereditary leiomyomatosis?",
+    "answer": "Sporadic fumarate hydratase mutation."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "37. Name one of the tumor suppressor pathway mutations that has been identified in a subgroup of type 2 pRCC.",
+    "answer": "NF2 mutation (Hippo pathway tumor suppresser)."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "38. Name a genetic silencing mutation that has been identified in a subgroup of type 2 pRCC.",
+    "answer": "CDKN2A silencing mutation."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "39. What is the likely future of the \"type 2\" pRCC classification?",
+    "answer": "The text states it is likely that the type 2 category will undergo changes as distinct molecular, and possibly morphologic, subtypes emerge."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "40. If a papillary RCC has mixed histologic features of both types, which subtype does it have a closer relationship to based on genetic and clinical outcome studies?",
+    "answer": "It has a closer relationship to type 1 papillary RCC."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "41. What is the name of the morphologic subset of pRCC that has a single layer of lower-grade round nuclei and shows reverse polarity?",
+    "answer": "Oncocytic papillary carcinoma."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "42. What does \"reverse polarity\" mean in the context of oncocytic papillary carcinoma?",
+    "answer": "It refers to the elevation of the nuclei off the basement membrane."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "43. Can papillary RCC undergo high-grade transformation?",
+    "answer": "Yes, like all other types, it can undergo anaplastic or sarcomatoid changes."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "44. How common is rhabdoid differentiation in papillary RCC?",
+    "answer": "Rhabdoid differentiation is uncommon."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "45. What is the full name of the grading system for pRCC mentioned in the document?",
+    "answer": "The World Health Organization/International Society of Urological Pathology Grading System."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "46. What are the criteria for a Grade 1 papillary RCC according to the WHO/ISUP system?",
+    "answer": "Nucleoli are absent or inconspicuous and basophilic at ×400 magnification."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "47. How is a Grade 2 papillary RCC defined by the WHO/ISUP grading system?",
+    "answer": "Nucleoli are conspicuous and eosinophilic at ×400 magnification and visible but not prominent at ×100 magnification."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "48. What are the criteria for a Grade 3 papillary RCC in the WHO/ISUP system?",
+    "answer": "Nucleoli are conspicuous and eosinophilic at ×100 magnification."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "49. What three features can classify a papillary RCC as Grade 4?",
+    "answer": "Extreme nuclear pleomorphism, rhabdoid differentiation, or sarcomatoid differentiation."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "50. At what magnification are nucleoli assessed to distinguish between Grade 2 and Grade 3 pRCC?",
+    "answer": "At ×100 magnification."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "51. If a papillary RCC has confirmed sarcomatoid differentiation, what is its WHO/ISUP grade?",
+    "answer": "Grade 4."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "52. What is the primary differential diagnosis for small, low-grade papillary tumors?",
+    "answer": "Renal papillary adenomas."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "53. How is a renal papillary adenoma defined in terms of its tissue of origin?",
+    "answer": "It is a minute cortical focus of tubular or (more commonly) papillary epithelium."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "54. What is the maximum size of a renal papillary adenoma according to the latest WHO definition?",
+    "answer": "Less than 1.5 cm."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "55. Do renal papillary adenomas typically have a capsule?",
+    "answer": "No, they lack a tumor capsule."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "56. What is the highest nucleolar grade a renal papillary adenoma can have?",
+    "answer": "Nucleolar grade 2."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "57. What is the genetic relationship between renal papillary adenomas and type 1 pRCC?",
+    "answer": "They share the same cytogenetic findings."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "58. What is the presumed clinical significance of a renal papillary adenoma?",
+    "answer": "They likely represent early forms of type 1 papillary RCC without metastatic potential."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "59. What condition is characterized by the presence of numerous papillary adenomas, especially in patients on long-term dialysis?",
+    "answer": "Renal adenomatosis."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "60. How is a small (<1.5 cm) clear cell renal neoplasm diagnosed?",
+    "answer": "It is still diagnosed as a carcinoma."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "61. What is the histological appearance of papillae in type 2 pRCC?",
+    "answer": "They are lined by a pseudostratified epithelium."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "62. What type of RCC, associated with hereditary leiomyomatosis, is often misclassified as type 2 papillary RCC?",
+    "answer": "Fumarate hydratase–deficient RCC."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "63. What family of tumors, defined by a specific translocation, is also frequently misclassified as type 2 papillary RCC?",
+    "answer": "MiT family translocation RCCs."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "64. What should be emphasized in the pathological assessment of papillary RCCs with mixed histologic features?",
+    "answer": "Grading and staging."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "65. What is the nuclear appearance in oncocytic papillary carcinoma?",
+    "answer": "The tumor has a single layer of lower-grade round nuclei."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "66. Is the nuclear grade of type 1 pRCC uniform or variable?",
+    "answer": "The nuclear grade is variable."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "67. What is the typical lining of the capsule in a type 1 pRCC?",
+    "answer": "The individual neoplastic cells line the inner layer of the capsule."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "68. Is cytoplasmic clearing a feature of type 1 pRCC?",
+    "answer": "Yes, cytoplasmic clearing is not uncommon in foci of type 1 pRCC."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "69. What is the expression of AMACR in type 1 pRCC tumors?",
+    "answer": "There is strong expression of AMACR."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "70. What is the expression of keratin 7 in type 1 pRCC tumors?",
+    "answer": "There is strong expression of keratin 7."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "71. How does the prognosis of papillary RCC with sarcomatoid transformation compare to those without?",
+    "answer": "A papillary RCC with sarcomatoid differentiation is considered grade 4, which is associated with a more aggressive behavior."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "72. What is the appearance of the cytoplasm of the neoplastic cells in renal papillary adenomas?",
+    "answer": "The cytoplasm is typically acidophilic rather than clear and not particularly abundant."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "73. In what clinical setting are papillary adenomas particularly common and numerous?",
+    "answer": "They are common and numerous in end-stage kidneys in patients on long-term dialysis."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "74. Are renal neoplasms (other than papillary type) classified as adenomas or carcinomas based on size?",
+    "answer": "No, other subtypes of renal neoplasia are no longer divided into adenomas and carcinomas based on size.\n\nQT:75. What is the Hippo pathway's relevance to the classification of papillary RCC?\nA: A subset of type 2 pRCCs share alterations in the Hippo pathway, suggesting a relationship with \"mucinous, tubular, and spindle cell carcinoma\" of the kidney."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "76. What is the nucleolar appearance required for a pRCC to be considered Grade 3?",
+    "answer": "The nucleoli must be conspicuous and eosinophilic at ×100 magnification."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "77. What is the nucleolar appearance for a pRCC to be considered Grade 2?",
+    "answer": "Nucleoli are conspicuous and eosinophilic at ×400 magnification, but not prominent at ×100 magnification."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "78. What is the nucleolar appearance for a pRCC to be considered Grade 1?",
+    "answer": "Nucleoli are absent or inconspicuous and basophilic at ×400 magnification."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "79. Besides nuclear features, what other histologic finding automatically places a pRCC into Grade 4?",
+    "answer": "Rhabdoid or sarcomatoid differentiation."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "80. What is a key architectural feature used to distinguish type 1 from type 2 pRCC?",
+    "answer": "The presence of a single layer of cells in type 1 versus a pseudostratified epithelium in type 2."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "81. What is the typical color of a type 1 pRCC on gross examination?",
+    "answer": "Tan-brown."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "82. How do foamy macrophages contribute to the microscopic appearance of type 1 pRCC?",
+    "answer": "They are part of the prominent stromal infiltration that often accompanies the papillary formations."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "83. Is it common or uncommon to find intracytoplasmic hemosiderin in type 1 pRCC?",
+    "answer": "It is not uncommon."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "84. What is the genetic significance of finding chromosome 7, 17, and Y abnormalities in a papillary renal tumor?",
+    "answer": "It indicates it is a type 1 tumor according to the classification scheme."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "85. What might the presence of hundreds of small type 1 papillary RCCs suggest?",
+    "answer": "A hereditary form, associated with germline mutations of the c-MET oncogene."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "86. If a high-grade RCC has a papillary architecture, which subtype is it most likely to be?",
+    "answer": "Type 2 papillary RCC."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "87. Are MiT family translocation RCCs a subtype of papillary RCC?",
+    "answer": "No, they are a distinct entity that is frequently misclassified as \"type 2\" papillary RCC."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "88. What is the significance of SETD2 mutation in pRCC classification?",
+    "answer": "It is one of the genetic mutations found in subgroups of the heterogeneous type 2 papillary RCC category."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "89. Can a tumor with features of both type 1 and type 2 pRCC exist?",
+    "answer": "Yes, some papillary RCCs have mixed histologic features that are difficult to classify as either type."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "90. Is a papillary renal neoplasm measuring 1.0 cm considered an adenoma or carcinoma?",
+    "answer": "If it meets the other criteria (no capsule, grade 2 or less), it is considered a papillary adenoma."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "91. Is the cytoplasm of type 1 pRCC cells typically abundant or scanty?",
+    "answer": "It is typically a single layer of cells with scanty pale cytoplasm."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "92. What is the appearance of the cellular lining in Type 2 pRCC?",
+    "answer": "It is a pseudostratified epithelium."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "93. Is a tumor with a thick fibrous capsule more likely to be a type 1 pRCC or a renal papillary adenoma?",
+    "answer": "A thick fibrous capsule is a typical feature of type 1 pRCC; adenomas lack a tumor capsule."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "94. In the differential diagnosis of papillary renal neoplasms, what is the size cutoff between adenoma and carcinoma?",
+    "answer": "1.5 cm."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "95. What does the term \"renal adenomatosis\" refer to?",
+    "answer": "The presence of numerous papillary adenomas, particularly common in patients on long-term dialysis."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "96. What is the clinical significance of a papillary renal tumor that is 1.2 cm, grade 1, and lacks a capsule?",
+    "answer": "It would be classified as a renal papillary adenoma, which is considered a likely early form of pRCC without metastatic potential."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "97. A papillary renal tumor with a pseudostratified epithelium and abundant eosinophilic cytoplasm would be classified as what type?",
+    "answer": "Type 2 papillary RCC."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "98. A papillary renal tumor with a single layer of low cuboidal epithelium and scanty cytoplasm would be classified as what type?",
+    "answer": "Type 1 papillary RCC."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "99. What kind of infiltration is often seen in the stroma of type 1 pRCC?",
+    "answer": "Prominent stromal infiltration by neutrophils or foamy macrophages."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "100. Based on Figure 24.28, what type of cells line the papillae in papillary type 1 RCC?",
+    "answer": "A single cuboidal layer of cytologically bland cells."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What percentage of all renal cell carcinoma (RCC) cases does chromophobe RCC (chRCC) comprise?",
+    "answer": "Chromophobe RCC comprises about 5% of all cases of RCC."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the typical gross appearance of chRCC regarding its circumscription and number?",
+    "answer": "It is grossly well circumscribed and solitary."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the characteristic cut surface color of a chRCC?",
+    "answer": "It has a homogeneous gray to brown cut surface."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Are hemorrhage and necrosis typical gross features of chRCC?",
+    "answer": "No, chRCC is typically devoid of hemorrhage or necrosis."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Microscopically, what is the characteristic low-power architectural arrangement of a chRCC?",
+    "answer": "There is a characteristic broad “alveolar” arrangement of the tumor."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is an alternative microscopic architectural pattern seen in some chRCC cases?",
+    "answer": "Some cases have smaller nests."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What are the two main histologic variants of chRCC?",
+    "answer": "The two main histologies are the classic (or “plant-cell”) type and the eosinophilic variant."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Describe the cell borders and membranes of the neoplastic cells in the classic type of chRCC.",
+    "answer": "The neoplastic cells have sharply defined borders and abundant cytoplasm with very prominent cell membranes."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the cytoplasmic quality of the classic (\"plant-cell\") type of chRCC?",
+    "answer": "The cytoplasm has a pale, acidophilic quality."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What characteristic feature is often seen in the perinuclear region of the classic chRCC cytoplasm?",
+    "answer": "There is often a vague clear perinuclear region."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "How does the perinuclear clearing in the eosinophilic variant of chRCC compare to the classic type?",
+    "answer": "The eosinophilic variant has more pronounced perinuclear clearing."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "How do the cell membranes of the eosinophilic variant of chRCC compare to the classic type?",
+    "answer": "The cell membranes are less prominent in the eosinophilic variant."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Can chRCC present with features of both the classic and eosinophilic types?",
+    "answer": "Yes, some cases have mixed features."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is a common secondary microscopic finding in nearly half of chRCC cases?",
+    "answer": "Calcification is present in nearly half of the cases."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What are the three nuclear features considered critical to the diagnosis of chRCC?",
+    "answer": "The critical nuclear features are irregular nuclear membranes, hyperchromasia, and frequent binucleation."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "According to the document, are the specific nuclear features of chRCC considered optional or essential for diagnosis?",
+    "answer": "The document states these specific nuclear features are both necessary and sufficient for classification as chromophobe RCC."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "How are the nuclei of chRCC described in comparison to renal oncocytoma?",
+    "answer": "The nuclei of chromophobe RCC are described as wrinkled and raisin-like."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Can the diagnostic features of chRCC be recognized on small tissue samples?",
+    "answer": "Yes, the characteristic cytoplasmic and nuclear features can be recognized in fine-needle aspiration specimens and biopsies."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What cytoplasmic feature of chRCC is well appreciated by electron microscopy?",
+    "answer": "The presence of numerous cytoplasmic microvesicles."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Is electron microscopy still a routine diagnostic tool for chRCC?",
+    "answer": "No, the text states it is no longer employed for routine diagnosis."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Which special stain can highlight the microvesicles in chRCC cytoplasm?",
+    "answer": "The microvesicles stain for Hale colloidal iron."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the document’s view on the practical utility of the Hale colloidal iron stain for chRCC diagnosis?",
+    "answer": "The document states the stain is technically difficult to perform and that they do not require its use."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "According to the document, what is the most reliable method for distinguishing chRCC from oncocytoma?",
+    "answer": "The document states that they rely almost exclusively on H&E morphology for this distinction."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Name three common positive immunohistochemical markers for chRCC.",
+    "answer": "Any three of the following: EMA, CD117, keratin 7, Ep-Cam, or E-cadherin."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Is chRCC typically positive or negative for N-cadherin?",
+    "answer": "It is typically negative for N-cadherin."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Is chRCC typically positive or negative for vimentin?",
+    "answer": "It is typically negative for vimentin."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the common expression pattern of EMA in chRCC?",
+    "answer": "ChRCC is reported to commonly express EMA."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the common expression pattern of CD117 in chRCC?",
+    "answer": "ChRCC is reported to commonly express CD117."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the common expression pattern of keratin 7 in chRCC?",
+    "answer": "ChRCC is reported to commonly express keratin 7."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the common expression pattern of CD9 in chRCC?",
+    "answer": "ChRCC is reported to commonly express CD9."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the common expression pattern of CD82 in chRCC?",
+    "answer": "ChRCC is reported to commonly express CD82."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the common expression pattern of paxillin in chRCC?",
+    "answer": "ChRCC is reported to commonly express paxillin."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the common expression pattern of parvalbumin in chRCC?",
+    "answer": "ChRCC is reported to commonly express parvalbumin."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Which claudins are commonly expressed in chRCC?",
+    "answer": "Claudin-7 and -8 are commonly expressed."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the full name of the adhesion molecule Ep-Cam, which is expressed in chRCC?",
+    "answer": "The text identifies Ep-Cam as an epithelial adhesion molecule."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Is E-cadherin expressed in chRCC?",
+    "answer": "Yes, E-cadherin is expressed in chRCC."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the typical staining pattern of CD10 in chRCC?",
+    "answer": "A high percentage of chromophobe RCCs have been found to be immunoreactive for CD10 at least focally."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the characteristic expression pattern of PAX-8 in chRCC compared to other RCC subtypes?",
+    "answer": "In contrast to most RCC subtypes, at least 20% of chromophobe RCCs are negative for PAX-8."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "List five chromosomes that are frequently lost in chRCC.",
+    "answer": "Any five of the following: 1, 2, 6, 10, 13, 17, and 21."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What was the finding from The Cancer Genome Atlas (TCGA) regarding a practical diagnostic marker for chRCC?",
+    "answer": "A practical diagnostic marker was not identified because the molecular events were found to be very heterogeneous."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Can chRCC undergo sarcomatoid transformation?",
+    "answer": "Yes, chromophobe RCC can undergo sarcomatoid transformation."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "How does the tendency for sarcomatoid transformation in chRCC compare to other RCC types?",
+    "answer": "It may have a greater tendency to undergo this event than many other types."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "How does the prognosis of chRCC change if sarcomatoid transformation occurs?",
+    "answer": "If sarcomatoid transformation has developed, the prognosis becomes very poor."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "How does the overall prognosis of chRCC compare with that of clear cell RCC?",
+    "answer": "As a whole, the prognosis of chromophobe RCC is much more favorable than that of clear cell RCC."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Can chRCC metastasize?",
+    "answer": "Yes, distant metastases can develop."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is a particular organ to which chRCC can metastasize?",
+    "answer": "The liver is mentioned as a site of distant metastasis."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What clinical factor increases the likelihood of distant metastasis in chRCC?",
+    "answer": "Distant metastases are more likely to develop when the tumors are high stage at presentation."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "According to the current consensus, is nuclear grading prognostically useful for chRCC?",
+    "answer": "No, the current consensus is that grade does not provide additional prognostic information for chromophobe RCC."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "With which tumor is the eosinophilic variant of chRCC most often confused?",
+    "answer": "Its main differential diagnosis is with renal oncocytoma."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the key difference in nuclear contour between chRCC and renal oncocytoma?",
+    "answer": "The cells of chromophobe RCC have wrinkled, raisin-like hyperchromatic nuclei, whereas those of oncocytoma tend to be perfectly round."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What two microscopic features are considered sufficient to classify a tumor as chRCC in a differential with oncocytoma?",
+    "answer": "The presence of well-developed perinuclear halos and/or irregular nuclear membranes with frequent binucleation are sufficient for classification as chromophobe RCC."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Can chRCC be associated with a genetic syndrome?",
+    "answer": "Yes, it is a tumor type seen in Birt-Hogg-Dubé syndrome."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Name some of the rare architectural patterns reported in chRCC.",
+    "answer": "Multicystic, microcystic, and adenomatous patterns of growth or neuroendocrine-like features have been reported."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is a “perinuclear halo” as seen in chRCC?",
+    "answer": "It is a zone of cytoplasmic clearing around the nucleus."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Describe the gross appearance of the chRCC depicted in Figure 24.33.",
+    "answer": "The tumor is well circumscribed and has a light brown color."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Describe the histology of classic chRCC as shown in Figure 24.34.",
+    "answer": "The figure shows the classic type of chromophobe renal cell carcinoma with thick cell membranes."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Describe the histology of eosinophilic chRCC as shown in Figure 24.35.",
+    "answer": "The figure shows the eosinophilic type of chromophobe renal cell carcinoma with prominent perinuclear halos."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What unusual growth pattern of chRCC is depicted in Figure 24.36?",
+    "answer": "The figure shows a microcystic pattern of chromophobe renal cell carcinoma."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Is hyperchromasia a feature of chRCC nuclei?",
+    "answer": "Yes, hyperchromasia is a characteristic nuclear feature."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What are the consequences of the \"overwhelming\" number of publications on IHC for chRCC versus oncocytoma?",
+    "answer": "It has led to a situation where expert pathologists' use of stains varies quite dramatically, with the document's authors preferring to rely on H&E morphology."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Is chRCC more or less common than clear cell RCC?",
+    "answer": "Chromophobe RCC is much less common, accounting for 5% of cases versus 65-70% for clear cell RCC."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Is chRCC more or less common than papillary RCC?",
+    "answer": "Chromophobe RCC is less common, accounting for 5% of cases versus 15-18% for papillary RCC."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Is it possible for a chRCC to be positive for CD10?",
+    "answer": "Yes, a high percentage of cases have been found to be at least focally immunoreactive for CD10."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the significance of a PAX-8 negative result in a renal tumor biopsy?",
+    "answer": "Since at least 20% of chRCCs are negative for PAX-8, this finding can support a diagnosis of chRCC over other RCC subtypes that are more consistently positive."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "List three chromosomes, other than the most frequent ones, that can be lost in chRCC.",
+    "answer": "Any three of the following: 3, 5, 8, 9, 11, 18, and Y."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Are the molecular events in chRCC homogeneous or heterogeneous?",
+    "answer": "According to the TCGA data cited in the text, the molecular events were very heterogeneous."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Does a diagnosis of chRCC generally imply a better or worse prognosis than clear cell RCC?",
+    "answer": "It generally implies a much more favorable prognosis."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the appearance of the cytoplasm in the eosinophilic variant of chRCC?",
+    "answer": "It is eosinophilic, with pronounced perinuclear clearing."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What feature of chRCC nuclei is described as \"raisin-like\"?",
+    "answer": "Their wrinkled and hyperchromatic appearance."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the document's recommended term for an oncocytic tumor that doesn't fit the classic criteria for either oncocytoma or chRCC?",
+    "answer": "The text describes these as \"difficult to classify\" cases or \"gray zone\" cases."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the typical growth pattern of classic chRCC cells?",
+    "answer": "They grow in broad alveolar arrangements or smaller nests."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Are the cell membranes in the eosinophilic variant of chRCC easy to see?",
+    "answer": "No, the cell membranes are less prominent in the eosinophilic variant."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Can a chRCC be cystic?",
+    "answer": "Yes, rare cases are associated with multicystic and microcystic patterns of growth."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What does binucleation mean in the context of chRCC?",
+    "answer": "It means that tumor cells frequently have two nuclei."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the primary reason for the characteristic cytoplasmic appearance of chRCC cells?",
+    "answer": "It is due to the presence of numerous cytoplasmic microvesicles."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Which is more diagnostically significant for chRCC: the presence of perinuclear halos or the shape of the nuclear membrane?",
+    "answer": "Both are significant; the text states well-developed perinuclear halos and/or irregular nuclear membranes are sufficient for classification."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the relationship between chRCC and hybrid oncocytic tumors?",
+    "answer": "Both can be seen in patients with Birt-Hogg-Dubé syndrome."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the document's opinion on using a single immunostain to distinguish chRCC from oncocytoma?",
+    "answer": "The text suggests caution, stating the immunophenotype of cases can be very heterogeneous and that they rely on H&E morphology."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "List two markers commonly expressed in chRCC that are not keratins or cadherins.",
+    "answer": "Any two of the following: CD117, CD9, CD82, paxillin, parvalbumin, or Ep-Cam."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the typical finding regarding chromosome 1 in chRCC?",
+    "answer": "Frequent loss of chromosome 1 is found."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the typical finding regarding chromosome 17 in chRCC?",
+    "answer": "Frequent loss of chromosome 17 is found."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the prognosis for a patient with a high-stage chRCC?",
+    "answer": "The prognosis is less favorable, with an increased risk of distant metastases."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Is chRCC considered an aggressive tumor type overall?",
+    "answer": "No, as a whole, its prognosis is much more favorable than that of clear cell RCC."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the appearance of the tumor in Figure 24.33 concerning its borders?",
+    "answer": "The tumor is well circumscribed."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "In the classic type of chRCC, are the cell borders typically well-defined or poorly-defined?",
+    "answer": "They are sharply defined."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Is the nucleus of a chRCC cell typically regular or irregular in shape?",
+    "answer": "It is characteristically irregular."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is a key feature of the eosinophilic variant of chRCC seen in Figure 24.35?",
+    "answer": "Prominent perinuclear halos."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Why is Hale colloidal iron staining no longer required for a diagnosis of chRCC?",
+    "answer": "Because it is technically difficult to perform, and the diagnosis can be made on H&E and other features."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Does the document advocate for the use of adjunctive immunohistochemistry in distinguishing chRCC from oncocytoma?",
+    "answer": "No, the document states they rely almost exclusively on H&E morphology due to the heterogeneity of immunostaining results."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Is it unusual for a chRCC to be negative for PAX-8?",
+    "answer": "No, at least 20% of chromophobe RCCs are negative for PAX-8."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the significance of the TCGA findings for the routine diagnosis of chRCC?",
+    "answer": "A practical diagnostic marker was not identified, meaning diagnosis still relies heavily on morphology and conventional IHC."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Can a small chRCC metastasize?",
+    "answer": "The document does not specify a size threshold for metastasis in chRCC, only that high stage is a risk factor."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "How do you differentiate a chRCC from a renal oncocytoma based on nuclear morphology alone?",
+    "answer": "ChRCC nuclei are wrinkled and hyperchromatic, while oncocytoma nuclei are typically round and monomorphic."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Are neuroendocrine-like features common in chRCC?",
+    "answer": "No, they are described as a feature of rare cases."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the key difference in vimentin expression between chRCC and clear cell RCC?",
+    "answer": "ChRCC is typically negative for vimentin, whereas co-expression of keratins and vimentin is the rule in clear cell RCC."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the color of the cut surface of chRCC described as in the text?",
+    "answer": "Gray to brown."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Is a solitary mass the only way chRCC can present?",
+    "answer": "No, while usually solitary, the text mentions rare cases can be multicystic."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "What is the main prognostic implication of sarcomatoid change in a chRCC?",
+    "answer": "It indicates a very poor prognosis."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Is the diagnosis of chRCC based on a single pathognomonic feature?",
+    "answer": "No, it is based on a constellation of gross, architectural, cytologic, and nuclear features."
+  },
+  {
+    "disease_class": "Chromophobe Renal Cell Carcinoma (chRCC)",
+    "question": "Based on the text, what is the most reliable and consistently applied method for diagnosing chRCC?",
+    "answer": "Examination of the H&E-stained slide for the characteristic morphologic features, particularly the nuclear features (irregular membranes, hyperchromasia, binucleation) and cytoplasmic features (plant-like cells with prominent membranes and perinuclear halos)."
+  }
+]

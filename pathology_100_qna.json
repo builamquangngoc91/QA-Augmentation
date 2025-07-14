@@ -1,0 +1,402 @@
+[
+  {
+    "question": "What are the primary compartments of the kidney evaluated in a renal biopsy?",
+    "answer": "Glomeruli, tubules, interstitium, and blood vessels."
+  },
+  {
+    "question": "What three microscopy techniques are routinely utilized in the pathologic examination of renal tissues?",
+    "answer": "Light microscopy, immunofluorescence microscopy, and electron microscopy."
+  },
+  {
+    "question": "For proper assessment of the extent of diffuse glomerular disease, what is the recommended minimum number of glomeruli to be examined in a renal biopsy?",
+    "answer": "At least 5\u201310 glomeruli."
+  },
+  {
+    "question": "Describe the trilaminar structure of the glomerular basement membrane (GBM).",
+    "answer": "It is composed of a central electron-dense zone, or lamina densa, bordered by two narrow electron-lucent layers: the lamina rara interna and the lamina rara externa."
+  },
+  {
+    "question": "What is the definition of mesangial hypercellularity in a glomerulus?",
+    "answer": "The presence of more than three cells in an individual glomerular mesangial region away from the vascular pole."
+  },
+  {
+    "question": "Which special stain is considered the most useful and easiest to perform for routine light microscopic evaluation of renal biopsies?",
+    "answer": "Periodic acid\u2013Schiff (PAS) stain."
+  },
+  {
+    "question": "What are the major components of the glomerular basement membrane (GBM)?",
+    "answer": "Type IV collagen, laminin, heparan sulfate proteoglycans, and entactin."
+  },
+  {
+    "question": "What is the primary function of mesangial cells in the glomerulus?",
+    "answer": "They possess contractile properties involved in regulating blood flow, modulating filtration, producing growth factors for cell turnover, and phagocytosing debris."
+  },
+  {
+    "question": "What are the most commonly used antibodies for direct immunofluorescence on frozen sections of renal biopsies?",
+    "answer": "Antibodies against IgG, IgA, IgM, kappa and lambda light chains, C1q, C3, C4, and fibrinogen or fibrin."
+  },
+  {
+    "question": "What specific marker is very useful for the diagnosis of antibody-mediated acute allograft rejection on immunofluorescence?",
+    "answer": "C4d."
+  },
+  {
+    "question": "What are the four main clinical characteristics of the nephrotic syndrome?",
+    "answer": "Massive proteinuria (>3.5 g/24 hours), hypoproteinemia, edema, and hyperlipidemia."
+  },
+  {
+    "question": "What is the most common cause of idiopathic nephrotic syndrome in children?",
+    "answer": "Minimal Change Disease (MCD)."
+  },
+  {
+    "question": "What is the characteristic ultrastructural appearance of glomeruli in Minimal Change Disease?",
+    "answer": "Total foot process effacement (or obliteration) of podocytes, with the basement membrane covered by sheets of cytoplasm."
+  },
+  {
+    "question": "What are the typical immunofluorescence findings in Minimal Change Disease?",
+    "answer": "Almost invariably negative for immunoglobulin and complement."
+  },
+  {
+    "question": "What is the usual initial treatment approach for nephrotic syndrome in pediatric patients, given the high probability of MCD?",
+    "answer": "Empiric steroid therapy without prior renal biopsy, unless the syndrome is steroid resistant."
+  },
+  {
+    "question": "What pathological features on a renal biopsy, especially in a child, should raise suspicion for Focal Segmental Glomerulosclerosis (FSGS) instead of Minimal Change Disease?",
+    "answer": "Tubular atrophy (TA) and interstitial scarring."
+  },
+  {
+    "question": "What is the principal morphologic lesion of Focal Segmental Glomerulosclerosis (FSGS)?",
+    "answer": "Segmental sclerosis, resulting from an increase in mesangial matrix and obliteration of glomerular capillaries, affecting one or more lobules of the glomerular tuft."
+  },
+  {
+    "question": "What circulating factor is thought to be responsible for the pathogenesis of primary FSGS?",
+    "answer": "A circulating \"permeability\" factor(s), possibly a lymphokine or cytokine, which leads to epithelial cell injury."
+  },
+  {
+    "question": "What genetic association is strongly linked to FSGS in individuals of Black descent?",
+    "answer": "Apolipoprotein L1 (APOL1) gene risk alleles G1 and G2."
+  },
+  {
+    "question": "What is \"collapsing glomerulopathy\" and which genetic factor is it attributable to?",
+    "answer": "It is a distinct variant of FSGS characterized by widespread collapse of glomerular capillary loops, predominantly seen in individuals with APOL1 risk alleles."
+  },
+  {
+    "question": "What is the defining feature of C1q nephropathy on immunofluorescence microscopy?",
+    "answer": "Presence of dominant or codominant C1q deposition in the mesangium."
+  },
+  {
+    "question": "What is the primary pathological characteristic of Membranous Glomerulonephritis (MGN)?",
+    "answer": "Subepithelial immune complex deposits and variable basement membrane thickening, without infiltration by inflammatory cells."
+  },
+  {
+    "question": "What autoantibodies are directed against in the majority of primary MGN cases?",
+    "answer": "Autoantibodies directed against phospholipase A2 receptor (PLA2R) expressed in podocytes."
+  },
+  {
+    "question": "Describe the characteristic immunofluorescence pattern in all stages of MGN.",
+    "answer": "A generalized, peripheral granular pattern of IgG and C3 along the capillary wall."
+  },
+  {
+    "question": "What are the four electron microscopic stages of Membranous Glomerulonephritis?",
+    "answer": "Stage I (small subepithelial deposits), Stage II (subepithelial deposits separated by basement membrane projections/spikes), Stage III (deposits surrounded by newly formed basement membrane), and Stage IV (deposits gradually lose electron density, GBM becomes vacuolated, folded, and thickened)."
+  },
+  {
+    "question": "What is the most common cause of end-stage renal disease (ESRD) in the United States?",
+    "answer": "Diabetic nephropathy."
+  },
+  {
+    "question": "What is the earliest clinical manifestation of diabetic nephropathy that cannot be detected by standard urine dipstick?",
+    "answer": "Microalbuminuria."
+  },
+  {
+    "question": "What is the most consistent ultrastructural finding in diabetic nephropathy?",
+    "answer": "Diffuse thickening of the glomerular basement membrane (GBM)."
+  },
+  {
+    "question": "What is the characteristic histopathologic lesion of diabetic glomerulosclerosis by light microscopy?",
+    "answer": "Nodular glomerulosclerosis, also known as Kimmelstiel\u2013Wilson lesion."
+  },
+  {
+    "question": "What is the diagnostic staining characteristic of amyloid deposits when viewed under polarized light after Congo red staining?",
+    "answer": "Apple-green birefringence."
+  },
+  {
+    "question": "What is the most common form of systemic amyloidosis in the Western world, and what are its fibrils composed of?",
+    "answer": "Amyloid light-chain (AL) amyloidosis, with amyloid fibrils composed of the N-terminal residues of the variable region of an immunoglobulin light chain."
+  },
+  {
+    "question": "What amyloid protein is associated with persistent inflammation and chronic infections?",
+    "answer": "Amyloid A (AA)."
+  },
+  {
+    "question": "What are the typical ultrastructural features of amyloid fibrils in renal tissue?",
+    "answer": "Random aggregates of rigid, nonbranching fibrils measuring 8\u201310 nm in diameter."
+  },
+  {
+    "question": "How can AL and AA amyloid fibrils be differentiated by pretreating tissue sections?",
+    "answer": "AA amyloid fibrils lose their affinity for Congo red stain and birefringence after pretreatment with potassium permanganate, whereas AL amyloid is not affected."
+  },
+  {
+    "question": "What is Fibrillary Glomerulonephritis characterized by on electron microscopy?",
+    "answer": "Extracellular deposition of nonbranching, randomly arrayed fibrils approximately 10\u201330 nm in diameter."
+  },
+  {
+    "question": "What distinguishes the fibrils of Immunotactoid Glomerulopathy from those of Fibrillary Glomerulonephritis on electron microscopy?",
+    "answer": "Immunotactoid glomerulopathy has microtubular structures with a hollow core ranging from 30 to 50 nm in width, often arranged in parallel or stacked arrays, compared to smaller, randomly oriented fibrils in fibrillary glomerulonephritis."
+  },
+  {
+    "question": "How do the amorphous deposits of Fibrillary Glomerulonephritis stain with Congo red or thioflavin T?",
+    "answer": "They do not stain with Congo red or thioflavin T, differentiating them from amyloid."
+  },
+  {
+    "question": "What is the predominant light chain type observed in the deposits of Light Chain Deposition Disease (LCDD)?",
+    "answer": "Kappa light chains (in 80% of cases)."
+  },
+  {
+    "question": "What is the crucial finding for the diagnosis of Heavy Chain Deposition Disease (HCDD) on immunofluorescence?",
+    "answer": "Demonstration of positivity for heavy chains (usually gamma, IgG) and negativity for both kappa and lambda light chains."
+  },
+  {
+    "question": "What is Proliferative Glomerulonephritis with Monoclonal Immunoglobulin G Deposits (PGNMIGD) defined by on immunofluorescence microscopy?",
+    "answer": "Granular mesangial and capillary wall deposits composed of IgG and C3 with associated light chain restriction, most commonly IgG3\u03ba."
+  },
+  {
+    "question": "What is the genetic basis for Congenital Nephrotic Syndrome of the Finnish type?",
+    "answer": "Mutations of the NPHS1 gene located on chromosome 19q13.1, which encodes nephrin protein."
+  },
+  {
+    "question": "What is Diffuse Mesangial Sclerosis (DMS) characterized by?",
+    "answer": "Early onset of severe proteinuria, characteristic glomerular morphology, and rapid progression to end-stage renal failure before the age of 3 years."
+  },
+  {
+    "question": "What gene mutation is typically found in patients with Denys\u2013Drash syndrome, which can present with DMS?",
+    "answer": "Mutations of the WT1 suppressor gene located on chromosome 11p13."
+  },
+  {
+    "question": "What is the classic clinical presentation of acute poststreptococcal glomerulonephritis?",
+    "answer": "Abrupt onset of gross hematuria, edema, proteinuria, hypertension, and impaired renal function, typically occurring 1-4 weeks after a streptococcal infection."
+  },
+  {
+    "question": "What is the most characteristic ultrastructural feature in the early stages of acute poststreptococcal glomerulonephritis?",
+    "answer": "The presence of subepithelial, dome-shaped, electron-dense deposits called \"humps.\""
+  },
+  {
+    "question": "What is the key immunofluorescence finding that defines IgA Nephropathy (IgAN)?",
+    "answer": "Predominant deposition of IgA in the glomerular mesangium."
+  },
+  {
+    "question": "Which complement pathway is primarily activated in IgA Nephropathy, as evidenced by immunofluorescence studies?",
+    "answer": "The alternative pathway, shown by strong C3 reactivity with no C1q or C4."
+  },
+  {
+    "question": "How is Crescentic Glomerulonephritis histopathologically defined?",
+    "answer": "A severe form of glomerulonephritis in which 50% or more of the glomeruli are involved by epithelial crescents."
+  },
+  {
+    "question": "What are the three main categories of crescentic glomerulonephritis based on immunofluorescence and pathogenesis?",
+    "answer": "1) Anti-GBM glomerulonephritis, 2) Immune complex crescentic glomerulonephritis, and 3) Pauci-immune crescentic glomerulonephritis."
+  },
+  {
+    "question": "What is the characteristic immunofluorescence pattern in anti-glomerular basement membrane (anti-GBM) glomerulonephritis?",
+    "answer": "Continuous linear immunostaining of IgG along the GBM."
+  },
+  {
+    "question": "What serologic markers are associated with pauci-immune crescentic glomerulonephritis?",
+    "answer": "Anti-neutrophil cytoplasmic antibodies (ANCA), specifically cytoplasmic (C-ANCA) recognizing proteinase 3 (PR3), and perinuclear (P-ANCA) recognizing myeloperoxidase (MPO)."
+  },
+  {
+    "question": "What classification system is currently used to standardize the histologic diagnosis of lupus nephritis?",
+    "answer": "The International Society of Nephrology (ISN)/Renal Pathology Society (RPS) classification."
+  },
+  {
+    "question": "Describe the \"full house\" immunofluorescence pattern and its significance in lupus nephritis.",
+    "answer": "Presence of IgG, IgM, IgA, C3, and C1q in a coarse granular pattern in the mesangium and peripheral capillary walls, considered characteristic of lupus nephritis."
+  },
+  {
+    "question": "Which class of lupus nephritis is characterized by diffuse segmental and/or global endocapillary and/or extracapillary glomerulonephritis affecting 50% or more of the glomeruli?",
+    "answer": "Class IV (Diffuse Lupus Nephritis)."
+  },
+  {
+    "question": "What morphologic lesion is characteristic of \"wire loops\" in lupus nephritis?",
+    "answer": "Marked thickening of the glomerular capillary walls due to massive subendothelial immune deposits."
+  },
+  {
+    "question": "What are the key distinguishing features of pauci-immune necrotizing vasculitides?",
+    "answer": "Lack of immune complexes (or minimal staining) and the presence of ANCA."
+  },
+  {
+    "question": "What is the primary characteristic of Polyarteritis Nodosa (PAN) in terms of affected vessels and renal involvement?",
+    "answer": "Necrotizing vasculitis of muscular medium-sized arteries, sparing glomeruli by definition."
+  },
+  {
+    "question": "How does Microscopic Polyangiitis differ from Polyarteritis Nodosa regarding vessel size and renal involvement?",
+    "answer": "Microscopic Polyangiitis affects small vessels (capillaries, venules, arterioles) and commonly presents with crescentic glomerulonephritis, whereas PAN affects medium-sized arteries and typically lacks glomerular involvement."
+  },
+  {
+    "question": "What is the classic clinical triad associated with Granulomatosis with Polyangiitis (GPA)?",
+    "answer": "1) Necrotizing granulomatous inflammation of the upper/lower respiratory tract, 2) necrotizing vasculitis of small- to medium-sized vessels, and 3) renal disease (often focal necrotizing glomerulonephritis)."
+  },
+  {
+    "question": "What is the most distinctive immunofluorescence feature of Henoch\u2013Sch\u00f6nlein Purpura (HSP)?",
+    "answer": "Dominant or co-dominant IgA deposition, often in a leukocytoclastic vasculitis pattern."
+  },
+  {
+    "question": "What are the key clinical components of preeclampsia?",
+    "answer": "New-onset hypertension, proteinuria, and edema, typically occurring after the 20th week of gestation."
+  },
+  {
+    "question": "What is the characteristic histological lesion in the glomeruli of patients with preeclampsia?",
+    "answer": "Glomerular endotheliosis, an intense swelling and hypertrophy of endothelial and, to a lesser extent, mesangial cells, making glomeruli enlarged, swollen, and bloodless."
+  },
+  {
+    "question": "What is the most specific finding of Alport Syndrome on electron microscopic examination of the glomeruli?",
+    "answer": "Thickening of the GBM with transformation of the lamina densa into multiple interwoven lamellae (also known as \"basket weave\" appearance)."
+  },
+  {
+    "question": "In male patients with X-linked Alport Syndrome, what immunohistochemical finding is absent in the GBM using antibodies to \u03b13, \u03b14, and \u03b15 chains of type IV collagen?",
+    "answer": "The reactivity for \u03b13, \u03b14, and \u03b15 chains is absent in the GBM and distal tubular basement membranes, and \u03b15 in the epidermal basement membrane."
+  },
+  {
+    "question": "What is Thin Basement Membrane Nephropathy (TBMN) characterized by on electron microscopy?",
+    "answer": "Uniform thinning of the lamina densa of the GBM, with an overall width of \u2264200 nm."
+  },
+  {
+    "question": "What type of cytoplasmic inclusions are characteristic of Fabry Disease on electron microscopy?",
+    "answer": "Laminated inclusion bodies, appearing as concentric myelin-like structures or ovoid \"zebra bodies.\""
+  },
+  {
+    "question": "What is the genetic basis for Nail\u2013Patella Syndrome?",
+    "answer": "Mutations of the LMX1B gene located on chromosome 9q34.1, which encodes a LIM homeodomain transcription factor."
+  },
+  {
+    "question": "What is the defining characteristic of Acute Tubular Necrosis (ATN) on renal biopsy?",
+    "answer": "Morphologic evidence of tubular epithelial cell injury, ranging from cell swelling to necrosis, accompanied by focal denudation of the basement membrane and desquamation of necrotic cells into the tubular lumen."
+  },
+  {
+    "question": "What are the most common etiologies of acute allergic tubulointerstitial nephritis?",
+    "answer": "Drug reactions, particularly \u03b2-lactam antibiotics, proton pump inhibitors, and nonsteroidal anti-inflammatory drugs (NSAIDs)."
+  },
+  {
+    "question": "What is Light Chain Cast Nephropathy (also known as Myeloma Kidney) characterized by microscopically?",
+    "answer": "Occlusion of distal and collecting tubules by numerous dense, eosinophilic, lamellated and fractured casts, sometimes surrounded by multinucleated giant cells."
+  },
+  {
+    "question": "What are the three general categories of hypertensive vascular changes affecting small renal vessels?",
+    "answer": "Hyaline arteriolosclerosis, myointimal hypertrophy and hyperplasia (hyperplastic arteriolosclerosis), and fibrinoid necrosis."
+  },
+  {
+    "question": "What is the microscopic appearance of \"onion skinning\" and in what condition is it typically seen?",
+    "answer": "Progressive intimal scarring and uniform concentric thickening of the vessel wall by proliferation of myointimal cells; seen in hyperplastic arteriolosclerosis, generally associated with severe hypertension."
+  },
+  {
+    "question": "What is considered the hallmark of accelerated (malignant) hypertension on renal biopsy?",
+    "answer": "Fibrinoid necrosis of the afferent arteriole."
+  },
+  {
+    "question": "What are the two main patterns of presentation for renal cystic diseases?",
+    "answer": "Hereditary (e.g., ADPKD, ARPKD, nephronophthisis) and acquired (e.g., acquired renal cystic disease, simple cysts)."
+  },
+  {
+    "question": "What is Multicystic Renal Dysplasia characterized by?",
+    "answer": "Disorganized development of the kidney with anomalous differentiation of the metanephros, leading to a large reniform mass of cysts and primitive tubules, glomerular structures, and dysplastic mesenchyme (sometimes including cartilage)."
+  },
+  {
+    "question": "What genes are commonly mutated in Autosomal Dominant Polycystic Kidney Disease (ADPKD)?",
+    "answer": "PKD1 (85-90% of cases) and PKD2, encoding polycystin-1 and polycystin-2, respectively."
+  },
+  {
+    "question": "What is the genetic basis for Autosomal Recessive Polycystic Kidney Disease (ARPKD)?",
+    "answer": "Mutations of the PKHD1 gene, encoding polyductin (fibrocystin)."
+  },
+  {
+    "question": "What is Nephronophthisis (NPHP) and in what age group is it the most frequent genetic cause of ESRD?",
+    "answer": "An autosomal recessive cystic disease characterized by tubular basement membrane disruption, interstitial fibrosis, and cyst formation; most frequent genetic cause of ESRD in children and adolescents (10%-20% of cases)."
+  },
+  {
+    "question": "What is Medullary Sponge Kidney (MSK) characterized by?",
+    "answer": "Tubular ectasia of the collecting ducts and cyst formation confined to the medullary pyramids."
+  },
+  {
+    "question": "What is the most serious complication of Acquired Renal Cystic Disease (ARCD), especially in long-term dialysis patients?",
+    "answer": "Development of renal carcinomas (renal cell carcinoma) in the walls of the cysts."
+  },
+  {
+    "question": "What is the preferred term for Wilms tumor?",
+    "answer": "Nephroblastoma."
+  },
+  {
+    "question": "What are the three major microscopic components identified in most Wilms tumors?",
+    "answer": "Undifferentiated blastema, mesenchymal (stromal) tissue, and epithelial tissue."
+  },
+  {
+    "question": "What gene fusion is associated with the cellular congenital mesoblastic nephroma?",
+    "answer": "ETV6\u2013NTRK3 gene fusion."
+  },
+  {
+    "question": "What are the two main, mutually exclusive, genetic events found in Clear Cell Sarcoma of Kidney?",
+    "answer": "Somatic internal tandem duplication within the BCOR gene sequence and YWHAE-NUTM2 fusion."
+  },
+  {
+    "question": "What is the key immunohistochemical finding that aids in the differential diagnosis of Rhabdoid Tumor of Kidney from other pediatric small cell tumors?",
+    "answer": "Loss of immunohistochemical expression of SMARCB1 (INI1/hSNF5/BAF47)."
+  },
+  {
+    "question": "What is the most common genetic mutation found in Metanephric Adenomas?",
+    "answer": "BRAF V600E mutations (in approximately 90% of cases)."
+  },
+  {
+    "question": "What is the most common type of Renal Cell Carcinoma (RCC), accounting for 65%\u201370% of all renal cancers?",
+    "answer": "Clear Cell Renal Cell Carcinoma."
+  },
+  {
+    "question": "What is the most common genetic alteration observed in Clear Cell RCC?",
+    "answer": "Alteration (terminal deletion, promoter methylation, or somatic mutation) of the VHL tumor suppressor gene on chromosome 3p25.5."
+  },
+  {
+    "question": "What is the key immunohistochemical marker for Clear Cell\u2013Papillary Renal Cell Carcinoma?",
+    "answer": "Strong and diffuse immunoreactivity for cytokeratin 7 (CK7)."
+  },
+  {
+    "question": "What is the characteristic gross appearance of a classic Renal Oncocytoma?",
+    "answer": "Typically solid and mahogany brown, often with a central stellate scar."
+  },
+  {
+    "question": "What is the main clinical presentation of patients with juxtaglomerular cell tumor?",
+    "answer": "Hypertension due to excessive renin production."
+  },
+  {
+    "question": "What is the most common form of renal carcinoma associated with sickle cell trait?",
+    "answer": "Renal Medullary Carcinoma."
+  },
+  {
+    "question": "What is the most important prognostic factor for Renal Cell Carcinoma in patients who do not have distant metastases at diagnosis?",
+    "answer": "Pathological staging, specifically invasion of the renal sinus."
+  },
+  {
+    "question": "What is the current WHO/ISUP grading system for clear cell and papillary RCC primarily based on?",
+    "answer": "Nuclear features, including nucleolar prominence, and extreme nuclear pleomorphism/rhabdoid/sarcomatoid differentiation (Grade 4)."
+  },
+  {
+    "question": "What are renal papillary adenomas defined as by the latest WHO definition?",
+    "answer": "Minute cortical foci of tubular or papillary epithelium, less than 1.5 cm in diameter, lacking a tumor capsule, and with no more than nucleolar grade 2."
+  },
+  {
+    "question": "What is the key immunohistochemical finding that defines Succinate Dehydrogenase\u2013Deficient Renal Cell Carcinoma?",
+    "answer": "Loss of cytoplasmic SDHB expression by immunohistochemistry."
+  },
+  {
+    "question": "What is the distinct feature of Fumarate Hydratase\u2013Deficient Renal Cell Carcinoma microscopically?",
+    "answer": "Classic pattern is papillary with abundant eosinophilic cytoplasm and large nucleoli with surrounding peri-nucleolar halos."
+  },
+  {
+    "question": "What is the most common predisposing factor for urothelial carcinomas of the renal pelvis and ureter?",
+    "answer": "Cigarette smoking."
+  },
+  {
+    "question": "What is the typical appearance of malignant lymphoma of the kidney?",
+    "answer": "Usually an expression of generalized disease, often bilateral, with diffuse involvement of the organ by large B-cell type lymphoma."
+  },
+  {
+    "question": "What is the characteristic clinical presentation of a renal angiomyolipoma that can be massive and even fatal?",
+    "answer": "Retroperitoneal hemorrhage."
+  }
+]

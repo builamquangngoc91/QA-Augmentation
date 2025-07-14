@@ -1,0 +1,102 @@
+[
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the most common type of renal cell carcinoma (ccRCC)?",
+    "answer": "Clear cell renal cell carcinoma (ccRCC)."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Describe the typical gross appearance of a clear cell RCC.",
+    "answer": "Well-delineated, cortical mass with a golden-yellow, solid cut surface; often variegated due to hemorrhage, necrosis, calcification, and cystic change."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What microscopic features characterize clear cell RCC?",
+    "answer": "Relatively large cells with clear to granular eosinophilic cytoplasm; alveolar and acinar patterns; prominent network of thin-walled blood vessels."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is a key genetic abnormality frequently found in clear cell RCC?",
+    "answer": "Alteration of the VHL tumor suppressor gene, often through deletion of 3p."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the most common clinical presentation of ccRCC?",
+    "answer": "Hematuria, flank pain, or abdominal mass; however, the classic triad occurs in only a small percentage of cases."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the typical immunohistochemical profile of clear cell RCC?",
+    "answer": "Positive for keratin and PAX-8; negative for inhibin, MelanA, and SF-1 (to distinguish from adrenal cortical carcinoma)."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "Besides VHL gene alterations, what other genetic changes are associated with clear cell RCC?",
+    "answer": "Alterations in other 3p genes (KD-M6A, KMM5C, SETD2, PBRM1) and BAP1 mutations (associated with high-grade tumors)."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What are common metastatic sites for clear cell RCC?",
+    "answer": "Lung and skeleton;  RCC is known for metastasizing to unusual sites."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the WHO/ISUP grading system for clear cell RCC based on?",
+    "answer": "Nuclear features, specifically nucleoli size and eosinophilia, with rhabdoid and sarcomatoid differentiation constituting grade 4."
+  },
+  {
+    "disease_class": "Clear Cell Renal Cell Carcinoma (ccRCC)",
+    "question": "What is the primary treatment modality for clear cell RCC?",
+    "answer": "Surgical excision;  partial nephrectomy is increasingly common, with adjuvant radiation and chemotherapy not consistently beneficial."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "What is the most common subtype of renal cell carcinoma (RCC)?",
+    "answer": "Clear cell RCC accounts for 65%–70% of all renal cancers."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "Describe the gross appearance of a typical clear cell RCC.",
+    "answer": "A typical clear cell RCC is well-delineated, cortical, solid, golden-yellow, and sharply separated from surrounding tissues by a fibrous pseudocapsule.  Hemorrhage, necrosis, calcification, and cystic change may be present."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "What are the microscopic features of clear cell RCC?",
+    "answer": "Clear cell RCC is characterized by large cells with cytoplasm ranging from optically clear to deeply granular. Alveolar and acinar patterns are common, separated by a stroma with prominent thin-walled blood vessels."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "What genetic alteration is frequently found in clear cell RCC?",
+    "answer": "Alteration of the VHL tumor suppressor gene is frequently found, often through terminal deletion of chromosome 3p, promoter methylation, or somatic mutation."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "What is the second most common subtype of RCC, and how can it be further classified?",
+    "answer": "Papillary RCC is the second most common, further classified into type 1 (single cell layer, scanty cytoplasm) and type 2 (pseudostratified epithelium, abundant eosinophilic cytoplasm)."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "Describe the gross and microscopic appearance of type 1 papillary RCC.",
+    "answer": "Type 1 papillary RCC is often encapsulated and tan-brown with complex papillary formations. Microscopically, it has a single layer of low cuboidal epithelium lining the papillae, often with little cytoplasm. Psammoma bodies may be present."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "What is the typical immunohistochemical profile of type 1 papillary RCC?",
+    "answer": "Type 1 papillary RCC typically shows strong expression of keratin 7 and AMACR."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "What are the key microscopic features that distinguish chromophobe RCC?",
+    "answer": "Chromophobe RCC has a broad alveolar arrangement of cells with sharply defined borders and abundant pale, acidophilic cytoplasm.  Nuclei are characterized by irregular membranes, hyperchromasia, and frequent binucleation."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "What is a key distinguishing feature between chromophobe RCC and oncocytoma at the microscopic level?",
+    "answer": "Chromophobe RCC shows irregular nuclear membranes with frequent binucleation and perinuclear clearing, while oncocytoma nuclei are typically round and regular."
+  },
+  {
+    "disease_class": "Papillary Renal Cell Carcinoma (pRCC)",
+    "question": "What is multilocular cystic renal neoplasm of low malignant potential, and how is it distinguished from clear cell RCC?",
+    "answer": "It's a rare macrocystic renal tumor with thin septa and small clusters of clear neoplastic cells in the septa, but *no* solid nodules.  Clear cell RCC would have solid nodules of tumor cells."
+  }
+]

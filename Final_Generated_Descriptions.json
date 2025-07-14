@@ -1,0 +1,25 @@
+{
+  "Clear Cell Renal Cell Carcinoma (ccRCC)": [
+    "ccRCC Architecturally, the tumor typically displays a solid, nested, or acinar growth pattern.",
+    "ccRCC A delicate, arborizing network of thin-walled blood vessels is characteristically prominent throughout the stroma, separating the nests of tumor cells.",
+    "ccRCC The neoplastic cells are generally large and polygonal with abundant, optically clear cytoplasm, a feature resulting from the intracellular accumulation of glycogen and lipids.",
+    "ccRCC Nuclear features, which form the basis for the WHO/ISUP grading system, range from small and uniform with inconspicuous nucleoli to large and pleomorphic with prominent eosinophilic nucleoli.",
+    "ccRCC Higher-grade tumors may exhibit progression to sarcomatoid or rhabdoid differentiation, the latter characterized by cells with abundant eosinophilic cytoplasm and eccentric nuclei.",
+    "ccRCC Alternatively, some tumor cells may display granular eosinophilic cytoplasm, in which case the classic delicate vasculature becomes a critical diagnostic feature."
+  ],
+  "Papillary Renal Cell Carcinoma (pRCC)": [
+    "pRCC The neoplasm is well-circumscribed by a thick fibrous capsule and demonstrates a predominantly papillary architecture.",
+    "pRCC The fibrovascular cores of the papillae are characteristically infiltrated by numerous foamy macrophages.",
+    "pRCC A single layer of low cuboidal cells with scanty, pale-staining cytoplasm lines the papillary structures.",
+    "pRCC Nuclear features are generally low-grade, though variable, with nucleoli ranging from inconspicuous to eosinophilic at high power magnification.",
+    "pRCC Intracytoplasmic hemosiderin deposition is a frequent finding within the neoplastic cells.",
+    "pRCC Numerous psammoma bodies are present within both the stroma and the papillary fronds."
+  ],
+  "Chromophobe Renal Cell Carcinoma (chRCC)": [
+    "chRCC Microscopically, the tumor is arranged in broad, solid to alveolar sheets of cells.",
+    "chRCC The neoplastic cells are large and polygonal, characterized by abundant pale eosinophilic cytoplasm and prominent, well-defined cell membranes, imparting a \"plant-like\" appearance.",
+    "chRCC A distinct, clear perinuclear halo is a characteristic cytoplasmic feature, which can be more conspicuous in the eosinophilic variant of the tumor.",
+    "chRCC The nuclei are diagnostically critical, displaying markedly irregular, wrinkled, or \"raisin-like\" nuclear membranes.",
+    "chRCC Furthermore, the nuclei consistently demonstrate hyperchromasia and frequent binucleation."
+  ]
+}

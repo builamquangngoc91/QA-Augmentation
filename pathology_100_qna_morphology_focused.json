@@ -1,0 +1,402 @@
+[
+  {
+    "question": "What is the most common congenital renal anomaly, and where are the kidneys typically joined?",
+    "answer": "Horseshoe kidney is the most common congenital renal anomaly, with the kidneys usually conjoined at the lower pole."
+  },
+  {
+    "question": "During its ascent from the pelvis, the horseshoe kidney's movement is obstructed by what structure?",
+    "answer": "The horseshoe kidney gets caught on the root of the inferior mesenteric artery."
+  },
+  {
+    "question": "What is the constellation of findings known as Potter sequence, and what underlying renal condition causes it?",
+    "answer": "Potter sequence, caused by bilateral renal agenesis leading to oligohydramnios, includes lung hypoplasia, flat face with low-set ears, and developmental defects of the extremities."
+  },
+  {
+    "question": "What is the key histologic feature that distinguishes a dysplastic kidney from other cystic kidney diseases?",
+    "answer": "A dysplastic kidney is characterized by the presence of abnormal tissue, such as cartilage, within the renal parenchyma."
+  },
+  {
+    "question": "What is the typical presentation of autosomal recessive polycystic kidney disease (ARPKD)?",
+    "answer": "ARPKD presents in infants with worsening renal failure and hypertension, and newborns may present with Potter sequence."
+  },
+  {
+    "question": "Besides renal cysts, what other organ is commonly affected in autosomal recessive polycystic kidney disease (ARPKD), and what is the associated pathology?",
+    "answer": "The liver is also commonly affected, with congenital hepatic fibrosis (leading to portal hypertension) and hepatic cysts."
+  },
+  {
+    "question": "The autosomal dominant form of polycystic kidney disease (ADPKD) is due to a mutation in which two genes?",
+    "answer": "ADPKD is due to a mutation in the APKD1 or APKD2 gene."
+  },
+  {
+    "question": "What are three key extrarenal conditions associated with autosomal dominant polycystic kidney disease (ADPKD)?",
+    "answer": "Berry aneurysm, hepatic cysts, and mitral valve prolapse."
+  },
+  {
+    "question": "In medullary cystic kidney disease, what is the gross appearance of the kidneys and what causes this change?",
+    "answer": "The kidneys are shrunken due to parenchymal fibrosis."
+  },
+  {
+    "question": "What is the hallmark laboratory finding in acute renal failure?",
+    "answer": "The hallmark is azotemia, which is an increased Blood Urea Nitrogen (BUN) and Creatinine (Cr)."
+  },
+  {
+    "question": "In prerenal azotemia, what is the characteristic serum BUN:Cr ratio and why does it occur?",
+    "answer": "The serum BUN:Cr ratio is > 15 because decreased GFR leads to enhanced reabsorption of fluid and BUN while tubular function remains intact."
+  },
+  {
+    "question": "What are the expected values for Fractional Excretion of Sodium (FENa) and urine osmolality in prerenal azotemia?",
+    "answer": "FENa is < 1% and urine osmolality is > 500 mOsm/kg, indicating intact tubular function."
+  },
+  {
+    "question": "In the early stages of postrenal azotemia, why is the BUN:Cr ratio > 15?",
+    "answer": "Increased tubular pressure \"forces\" BUN into the blood while tubular reabsorptive capacity is still intact."
+  },
+  {
+    "question": "What urinalysis finding is considered pathognomonic for Acute Tubular Necrosis (ATN)?",
+    "answer": "The presence of brown, granular casts in the urine."
+  },
+  {
+    "question": "What is the most common cause of intrarenal azotemia?",
+    "answer": "Acute Tubular Necrosis (ATN) is the most common cause."
+  },
+  {
+    "question": "How do the BUN:Cr ratio, FENa, and urine osmolality change in established Acute Tubular Necrosis (ATN)?",
+    "answer": "The BUN:Cr ratio is < 15, FENa is > 2%, and urine osmolality is < 500 mOsm/kg due to dysfunctional tubular epithelium."
+  },
+  {
+    "question": "Which two parts of the nephron are particularly susceptible to ischemic damage in Acute Tubular Necrosis?",
+    "answer": "The proximal tubule and the medullary segment of the thick ascending limb."
+  },
+  {
+    "question": "Which part of the nephron is particularly susceptible to nephrotoxic agents?",
+    "answer": "The proximal tubule."
+  },
+  {
+    "question": "What is the most common cause of nephrotoxic ATN?",
+    "answer": "Aminoglycosides are the most common cause."
+  },
+  {
+    "question": "What characteristic crystals may be seen in the urine of a patient with ATN caused by ethylene glycol poisoning?",
+    "answer": "Oxalate crystals."
+  },
+  {
+    "question": "What prophylactic measures can be used to decrease the risk of urate-induced ATN in a patient undergoing chemotherapy for a large tumor?",
+    "answer": "Hydration and allopurinol."
+  },
+  {
+    "question": "What is the etiology of acute interstitial nephritis (AIN)?",
+    "answer": "AIN is a drug-induced hypersensitivity reaction involving the interstitium and tubules."
+  },
+  {
+    "question": "What is a characteristic cellular finding in the urine of a patient with acute interstitial nephritis?",
+    "answer": "Eosinophils may be seen in the urine."
+  },
+  {
+    "question": "A patient develops oliguria, fever, and a rash days after starting a new diuretic. What is the most likely diagnosis?",
+    "answer": "Acute interstitial nephritis."
+  },
+  {
+    "question": "What is the classic clinical presentation of renal papillary necrosis?",
+    "answer": "Gross hematuria and flank pain."
+  },
+  {
+    "question": "What is the defining quantitative feature of proteinuria in nephrotic syndrome?",
+    "answer": "Proteinuria is greater than 3.5 grams per day."
+  },
+  {
+    "question": "On light microscopy, what is the appearance of the glomeruli in Minimal Change Disease (MCD)?",
+    "answer": "The glomeruli appear normal on H&E stain."
+  },
+  {
+    "question": "What is the pathognomonic finding on electron microscopy for Minimal Change Disease (MCD)?",
+    "answer": "Effacement (flattening) of the foot processes of podocytes."
+  },
+  {
+    "question": "What is the immunofluorescence (IF) finding in Minimal Change Disease?",
+    "answer": "IF is negative, as there are no immune complex deposits."
+  },
+  {
+    "question": "The excellent response of Minimal Change Disease to steroids suggests that the damage is mediated by what?",
+    "answer": "Cytokines from T cells."
+  },
+  {
+    "question": "What is the most common cause of nephrotic syndrome in children?",
+    "answer": "Minimal Change Disease (MCD)."
+  },
+  {
+    "question": "What is the most common cause of nephrotic syndrome in Hispanic and African American adults?",
+    "answer": "Focal Segmental Glomerulosclerosis (FSGS)."
+  },
+  {
+    "question": "What are three conditions associated with Focal Segmental Glomerulosclerosis (FSGS)?",
+    "answer": "HIV, heroin use, and sickle cell disease."
+  },
+  {
+    "question": "Describe the characteristic light microscopy finding in FSGS.",
+    "answer": "Sclerosis is seen in some glomeruli (focal) and in only part of those affected glomeruli (segmental)."
+  },
+  {
+    "question": "What is the most common cause of nephrotic syndrome in Caucasian adults?",
+    "answer": "Membranous Nephropathy."
+  },
+  {
+    "question": "What is the characteristic light microscopy finding in Membranous Nephropathy?",
+    "answer": "Thick glomerular basement membrane on H&E stain."
+  },
+  {
+    "question": "Describe the characteristic immunofluorescence and electron microscopy findings in Membranous Nephropathy.",
+    "answer": "Granular immunofluorescence due to subepithelial immune complex deposits, which appear as a 'spike and dome' pattern on EM."
+  },
+  {
+    "question": "What is the characteristic 'tram-track' appearance on H&E stain indicative of?",
+    "answer": "Membranoproliferative glomerulonephritis (MPGN)."
+  },
+  {
+    "question": "In Type I MPGN, where are the immune complex deposits located?",
+    "answer": "Subendothelial."
+  },
+  {
+    "question": "In Type II MPGN (Dense Deposit Disease), where are the deposits located?",
+    "answer": "Intramembranous (within the basement membrane)."
+  },
+  {
+    "question": "What is the pathogenic mechanism of Type II MPGN?",
+    "answer": "It is associated with C3 nephritic factor, an autoantibody that stabilizes C3 convertase, leading to overactivation of complement."
+  },
+  {
+    "question": "What is the primary pathogenic event in the development of diabetic nephropathy?",
+    "answer": "Nonenzymatic glycosylation of the vascular basement membrane due to high serum glucose."
+  },
+  {
+    "question": "What is the name of the pathognomonic sclerotic nodules seen in the mesangium in diabetic nephropathy?",
+    "answer": "Kimmelstiel-Wilson nodules."
+  },
+  {
+    "question": "When systemic amyloidosis involves the kidney, where do the amyloid deposits characteristically accumulate?",
+    "answer": "In the mesangium."
+  },
+  {
+    "question": "What special stain and finding under polarized light are used to diagnose amyloidosis?",
+    "answer": "Staining with Congo red shows an apple-green birefringence under polarized light."
+  },
+  {
+    "question": "What are the two hallmark urinalysis findings in nephritic syndrome?",
+    "answer": "RBC casts and dysmorphic RBCs in the urine."
+  },
+  {
+    "question": "What is the characteristic appearance of glomeruli on a biopsy from a patient with nephritic syndrome?",
+    "answer": "Hypercellular, inflamed glomeruli."
+  },
+  {
+    "question": "What is the typical latency period between a streptococcal infection and the onset of Poststreptococcal Glomerulonephritis (PSGN)?",
+    "answer": "PSGN presents 2-3 weeks after infection."
+  },
+  {
+    "question": "What is the characteristic electron microscopy finding in Poststreptococcal Glomerulonephritis (PSGN)?",
+    "answer": "Subepithelial immune complex deposits, often described as 'humps'."
+  },
+  {
+    "question": "A child presents with cola-colored urine, periorbital edema, and hypertension two weeks after a bout of impetigo. What is the most likely diagnosis?",
+    "answer": "Poststreptococcal Glomerulonephritis (PSGN)."
+  },
+  {
+    "question": "What is the hallmark histologic feature of Rapidly Progressive Glomerulonephritis (RPGN)?",
+    "answer": "Crescents in Bowman's space."
+  },
+  {
+    "question": "What is the characteristic immunofluorescence pattern seen in Goodpasture syndrome?",
+    "answer": "Linear immunofluorescence."
+  },
+  {
+    "question": "The antibodies in Goodpasture syndrome are directed against what specific target?",
+    "answer": "Collagen in the glomerular and alveolar basement membranes."
+  },
+  {
+    "question": "What is the term for RPGN with a negative immunofluorescence pattern?",
+    "answer": "Pauci-immune RPGN."
+  },
+  {
+    "question": "What group of diseases is associated with pauci-immune RPGN?",
+    "answer": "ANCA-associated vasculitides, including Wegener granulomatosis, microscopic polyangiitis, and Churg-Strauss syndrome."
+  },
+  {
+    "question": "What is the most common nephropathy worldwide?",
+    "answer": "IgA Nephropathy (Berger disease)."
+  },
+  {
+    "question": "What is the classic clinical presentation of IgA nephropathy?",
+    "answer": "Episodic hematuria that occurs concurrently with or shortly after a mucosal infection (e.g., gastroenteritis)."
+  },
+  {
+    "question": "What is the characteristic immunofluorescence finding in IgA nephropathy?",
+    "answer": "IgA immune complex deposition in the mesangium."
+  },
+  {
+    "question": "What is the underlying genetic defect in Alport syndrome?",
+    "answer": "An inherited defect in type IV collagen."
+  },
+  {
+    "question": "What is the characteristic finding on electron microscopy of the glomerulus in Alport syndrome?",
+    "answer": "Thinning and splitting of the glomerular basement membrane."
+  },
+  {
+    "question": "What is the classic clinical triad of Alport syndrome?",
+    "answer": "Isolated hematuria, sensory hearing loss, and ocular disturbances."
+  },
+  {
+    "question": "What two findings on a urine dipstick are highly suggestive of cystitis?",
+    "answer": "Positive leukocyte esterase and positive nitrites."
+  },
+  {
+    "question": "What urinalysis finding is characteristic of pyelonephritis and helps distinguish it from cystitis?",
+    "answer": "WBC casts."
+  },
+  {
+    "question": "What is 'thyroidization' of the kidney, and in what condition is it seen?",
+    "answer": "It is the histologic appearance of atrophic tubules containing eosinophilic proteinaceous material resembling thyroid follicles, seen in chronic pyelonephritis."
+  },
+  {
+    "question": "In chronic pyelonephritis caused by vesicoureteral reflux, where is cortical scarring characteristically located?",
+    "answer": "Scarring is most prominent at the upper and lower poles of the kidney."
+  },
+  {
+    "question": "What is the definition of sterile pyuria?",
+    "answer": "The presence of pyuria (>10 WBCs/hpf) with a negative standard urine culture."
+  },
+  {
+    "question": "The presence of sterile pyuria should raise suspicion for urethritis caused by which two organisms?",
+    "answer": "Chlamydia trachomatis or Neisseria gonorrhoeae."
+  },
+  {
+    "question": "Infection with urease-positive organisms like Proteus mirabilis is most commonly associated with what type of kidney stone?",
+    "answer": "Ammonium magnesium phosphate (struvite) stones."
+  },
+  {
+    "question": "What is the most common cause of calcium oxalate kidney stones?",
+    "answer": "Idiopathic hypercalciuria."
+  },
+  {
+    "question": "What is a key radiological feature of uric acid stones?",
+    "answer": "They are radiolucent on X-ray."
+  },
+  {
+    "question": "What is the characteristic gross appearance of an ammonium magnesium phosphate stone?",
+    "answer": "It often forms large staghorn calculi that fill the renal calyces."
+  },
+  {
+    "question": "Cystine stones in children are associated with what underlying condition?",
+    "answer": "Cystinuria, a genetic defect of tubular reabsorption of cysteine."
+  },
+  {
+    "question": "What neoplastic risk is increased in patients with end-stage kidneys undergoing long-term dialysis?",
+    "answer": "The development of cysts within the shrunken kidneys increases the risk for renal cell carcinoma."
+  },
+  {
+    "question": "What is an angiomyolipoma composed of?",
+    "answer": "It is a hamartoma comprised of blood vessels, smooth muscle, and adipose tissue."
+  },
+  {
+    "question": "Angiomyolipomas are found with increased frequency in patients with what genetic disorder?",
+    "answer": "Tuberous sclerosis."
+  },
+  {
+    "question": "While the classic triad is rare, what is the single most common presenting symptom of Renal Cell Carcinoma (RCC)?",
+    "answer": "Hematuria."
+  },
+  {
+    "question": "What is the characteristic gross appearance of a Renal Cell Carcinoma?",
+    "answer": "A yellow mass."
+  },
+  {
+    "question": "What is the most common histologic variant of Renal Cell Carcinoma, and what is its cytologic appearance?",
+    "answer": "The clear cell type, which exhibits cells with clear cytoplasm."
+  },
+  {
+    "question": "Pathogenesis of clear cell RCC involves the loss of what tumor suppressor gene?",
+    "answer": "The VHL (von Hippel-Lindau) gene on chromosome 3p."
+  },
+  {
+    "question": "What is the major modifiable risk factor for sporadic renal cell carcinoma?",
+    "answer": "Cigarette smoke."
+  },
+  {
+    "question": "How can a left-sided Renal Cell Carcinoma cause a varicocele?",
+    "answer": "The tumor can invade the left renal vein, blocking drainage from the left spermatic vein which drains into it."
+  },
+  {
+    "question": "What is the average age of presentation for a Wilms tumor?",
+    "answer": "3 years."
+  },
+  {
+    "question": "What are the three characteristic microscopic components of a Wilms tumor?",
+    "answer": "Blastema (immature kidney mesenchyme), primitive glomeruli and tubules, and stromal cells."
+  },
+  {
+    "question": "WAGR syndrome, which includes Wilms tumor, is associated with a deletion of which tumor suppressor gene?",
+    "answer": "WT1 tumor suppressor gene."
+  },
+  {
+    "question": "Beckwith-Wiedemann syndrome is associated with mutations in what gene cluster?",
+    "answer": "The WT2 gene cluster at 11p15.5, particularly involving IGF-2."
+  },
+  {
+    "question": "What is the most common type of cancer arising in the lower urinary tract?",
+    "answer": "Urothelial (transitional cell) carcinoma."
+  },
+  {
+    "question": "Besides cigarette smoke, name two other chemical risk factors for urothelial carcinoma.",
+    "answer": "Naphthylamine and azo dyes."
+  },
+  {
+    "question": "What is the classic clinical presentation of urothelial carcinoma?",
+    "answer": "Painless hematuria."
+  },
+  {
+    "question": "The \"flat\" pathway for developing urothelial carcinoma is associated with an early mutation in which gene?",
+    "answer": "p53."
+  },
+  {
+    "question": "What is the typical progression in the \"papillary\" pathway of urothelial carcinoma?",
+    "answer": "It develops as a low-grade papillary tumor that progresses to a high-grade papillary tumor and then invades."
+  },
+  {
+    "question": "What is a \"field defect\" in the context of urothelial carcinoma?",
+    "answer": "The tendency for tumors to be multifocal and to recur after treatment."
+  },
+  {
+    "question": "Squamous cell carcinoma of the bladder arises from what precursor lesion?",
+    "answer": "It arises in a background of squamous metaplasia."
+  },
+  {
+    "question": "What parasitic infection is a major risk factor for squamous cell carcinoma of the bladder, particularly in Egyptian males?",
+    "answer": "Schistosoma haematobium infection."
+  },
+  {
+    "question": "Adenocarcinoma of the bladder developing at the dome is thought to arise from what embryologic structure?",
+    "answer": "A urachal remnant."
+  },
+  {
+    "question": "What congenital anomaly of the bladder wall is a risk factor for adenocarcinoma?",
+    "answer": "Exstrophy of the bladder."
+  },
+  {
+    "question": "A patient with a history of recurrent UTIs and stones develops a bladder cancer. What histology is most likely?",
+    "answer": "Squamous cell carcinoma, arising from chronic inflammation and metaplasia."
+  },
+  {
+    "question": "The prognosis of Minimal Change Disease is excellent due to its high sensitivity to what treatment?",
+    "answer": "Steroids."
+  },
+  {
+    "question": "What is the prognosis for Focal Segmental Glomerulosclerosis (FSGS) and Membranous Nephropathy with standard treatment?",
+    "answer": "They have a poor response to steroids and often progress to chronic renal failure."
+  },
+  {
+    "question": "What are the three components of the WAGR syndrome acronym?",
+    "answer": "Wilms tumor, Aniridia, and Genital abnormalities. (The 'R' for Retardation is also part of it)."
+  },
+  {
+    "question": "Which hereditary renal cancer syndrome is an autosomal dominant disorder associated with inactivation of the VHL gene?",
+    "answer": "Von Hippel-Lindau disease."
+  }
+]
